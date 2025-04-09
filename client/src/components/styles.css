@@ -1,0 +1,9 @@
+/* Hover highlight styles */
+.hover-highlight {
+  background-color: yellow;
+  cursor: pointer;
+}
+
+.hover-highlight:hover {
+  background-color: orange;
+}
