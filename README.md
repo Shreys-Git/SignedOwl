@@ -9,6 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/f0cb102c-a462-4390-869d-91305330b944)
 
+
 ### 🔧 Tech Stack
 
 - **Frontend (Client)**:  
@@ -44,21 +45,32 @@
 
 - **🔎 Categorization**  
   Automate document sorting by extracting key fields using the Navigator API—saving hours of manual tagging.
+![image](https://github.com/user-attachments/assets/e52576e0-e550-4f64-b19a-9d7627b76328)
 
 - **📝 AI-Powered Editing**  
   Redline and negotiate contracts with AI agents. Review, accept, or reject individual changes with a built-in change manager to keep full control.
+![image](https://github.com/user-attachments/assets/b7c8c9c1-33fd-4bd5-b9b4-bc811c6b1c68)
+![image](https://github.com/user-attachments/assets/f592061c-5902-4689-a4fb-6d483e46df71)
 
+- **🖊️ E-Signatures with DocuSign**  
+  Seamlessly send, sign, and manage legal documents with integrated e-signature functionality powered by DocuSign’s API.
+![image](https://github.com/user-attachments/assets/9a297267-2ea3-4813-9d83-41e464b1f968)
+  
 - **📊 Insights & Clause Analysis**  
   Extract clauses, obligations, and flag risky deviations. Enhance reports with real-world context and citations using online research.
+![image](https://github.com/user-attachments/assets/f054780c-1993-4448-8821-0abfff9f95b5)
 
 - **💬 AI Chat with Documents**  
   Talk to your contracts. Signed Owl stores document data as vectors and uses semantic search to answer complex legal questions.
+![image](https://github.com/user-attachments/assets/9da9406e-5f74-4ec8-8442-efb0c9ee009c)
 
 - **📈 Auto-Generated Reports**  
   Visualize key extracted data through graphs and charts, all powered by the Navigator API.
+![image](https://github.com/user-attachments/assets/c8465f3d-1cfd-4522-84ed-1abdd1ecedc0)
 
 - **🗓️ Kanban & Calendar View**  
   Manage deadlines, renewal dates, and more with task views and Google Calendar integration.
+![image](https://github.com/user-attachments/assets/79753be0-9768-4b93-a9a8-e6d4773042be)
 
 ---
 
